@@ -1,3 +1,0 @@
-// Mongo DB Account
-// Username: "James Byeon"
-// Password: "abcd1234"
